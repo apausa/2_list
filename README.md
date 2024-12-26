@@ -1,5 +1,3 @@
-# reminders
+# Reminders
 
-Frontend application where users can write reminders. Made with TypeScript and SCSS.
-
-Features React and Redux.
+Frontend application where users can write reminders. Implements React and Redux.
